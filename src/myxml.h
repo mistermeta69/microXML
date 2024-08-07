@@ -11,9 +11,7 @@
 // nesting levels of tags
 //////////////////////////////////////////////////////////////////////
 //
-/*Copyright (c) 2000 by Nortel Networks 
-
-
+/*
 For Hosted Application Services PoC demo
 
 Rev		Date		Author		Comments
